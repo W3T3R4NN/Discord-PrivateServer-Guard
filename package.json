@@ -1,0 +1,19 @@
+{
+  "name": "asgard-guard",
+  "version": "1.0.0",
+  "main": "asgard.js",
+  "author": "W3T3R4NN",
+  "license": "MIT",
+  "scripts": {
+    "start": "node asgard.js"
+  },
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2"
+  }
+}

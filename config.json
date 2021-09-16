@@ -1,0 +1,92 @@
+{
+  "OwnerID":"714860550772883507",
+
+  "prefix":"!",
+
+  "AsgardGuild": "802335105624309780",
+
+  "AsgardBotSes": "870698713251721297",
+
+  "AsgardSunucuIsım":"𝗞𝗜̇𝗡𝗚 ∞",
+
+  "AsgardSunucuResim":"https://cdn.discordapp.com/attachments/877273158045040650/877305235561938994/PP.jpg",
+
+  "Token":"ODc3MzAxNjkxNTUxMTk1MTg2.YRwo3g.HUs_B6IbKZSvQPehreGJsp7dUyY",
+
+  "Status": "ᴡ𝟹ᴛ𝟹ʀ𝟺ɴɴ ❤️ 𝗞𝗜̇𝗡𝗚 ",
+
+  "AsgardStartKanal": "877306084816199680",
+  "AsgardStart":true,
+
+  "AsgardDiscordLogger":true,
+  "AsgardDiscordLoggerLogKanalı": "877309329370398791",
+
+  "AsgardServerGuardLogKanalı": "877305919120220160",
+  "AsgardServerGuard":true,
+
+  "AsgardKanalKorumaLogKanalı": "877308586584334426",
+
+  "AsgardKanalGuncellemeWH": ["877287602846310470"],
+  "AsgardKanalGuncellemeKoruması":true,
+
+  "AsgardKanalOlusturmaWH": ["877287602846310470"],
+  "AsgardKanalOlusturmaKoruması":true,
+
+  "AsgardKanalSilmeWH": ["877287602846310470"],
+  "AsgardKanalSilmeKoruması":true,
+
+
+
+  "AsgardRolKorumaLogKanalı": "877305792167022592",
+
+  "AsgardRolGuncellemeWH": ["877287547733172236"],
+  "AsgardRolGuncellemeKoruması":true,
+
+  "AsgardRolSilmeWH": ["877287547733172236"],
+  "AsgardRolSilmeKoruması":true,
+
+  "AsgardRolOlusturmaWH": ["877287547733172236"],
+  "AsgardRolOlusturmaKoruması":true,
+
+  "AsgardSagTikWH": ["877287547733172236"],
+  "AsgardSagTikKorumasi":true,
+
+
+
+  "AsgardBotKorumasıLogKanalı": "877305919120220160",
+  "AsgardBotKoruması":true,
+
+  "AsgardBanWH": ["877287779757862942"],
+  "AsgardBanKorumasıLogKanalı": "877305691843461130",
+  "AsgardBanKoruması":true,
+
+  "AsgardKickWH": ["877287779757862942"],
+  "AsgardKickKorumasıLogKanalı": "877305691843461130",
+  "AsgardKickKoruması":true,
+
+  "AsgardOtorol":false,
+  "AsgardOtorolKanal": "",
+  "AsgardOtorolId": "",
+
+  "AsgardReklamEngelLogKanalı": "",
+  "AsgardReklamEngel": false,
+
+  "AsgardRolVer": true,
+  "AsgardRolVerLogKanalı": "877308513838301235",
+
+  "AsgardRolAl": true,
+  "AsgardRolAlLogKanalı": "877308513838301235",
+
+  "AsgardBanLog": true,
+  "AsgardBanLogKanalı": "877308193326399598",
+
+  "AsgardBanKaldırmaLog": true,
+  "AsgardBanKaldırmaLogKanalı": "877308193326399598",
+
+  "AsgardGirisCikisLogKanalı": "878016850296963093",
+
+  "whitelist":["645325781148368936", "878780152308457522"],
+
+  "boosterRole":"",
+  "jailRole":""
+}
